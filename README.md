@@ -4,7 +4,7 @@ I live in South Korea and programming is my hobby!
 I use Python, Java, SQL, Lua, C# and more!   
 
 Now, I'm ready to College Scholastic Ability Test.
-Srry.
+Srry. ( 2022.10.24 ~ 2023.11.16 )
 
 # My stats
 
