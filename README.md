@@ -3,6 +3,9 @@ Hello, my name is seoung min Lee.
 I live in South Korea and programming is my hobby!   
 I use Python, Java, SQL, Lua, C# and more!   
 
+Now, I'm ready to College Scholastic Ability Test.
+Srry.
+
 # My stats
 
 
