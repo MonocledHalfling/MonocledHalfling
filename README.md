@@ -1,10 +1,9 @@
 # Welcome to my Git!
 Hello, my name is seoung min Lee.   
 I live in South Korea and programming is my hobby!   
-I use Python, Java, SQL, Lua, C# and more!   
+I use Python, Java, SQL, Lua, C# and more!
 
-Now, I'm ready to Korean S.A.T.
-Srry. ( 2022.10.24 ~ 2023.11.16 )
+I'm back!
 
 # My stats
 
