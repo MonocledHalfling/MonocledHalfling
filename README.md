@@ -18,6 +18,6 @@ I live in South Korea and programming is my hobby! <br> I use Python, Java, SQL,
 
 🛠️ Github Status
 <p align=left>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonocledHalfling&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonocledHalfling&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MonocledHalfling&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonocledHalfling&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
