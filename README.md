@@ -14,7 +14,7 @@ I live in South Korea and programming is my hobby! <br> I use Python, Java, SQL,
         ⏳ WakaTime
 </p>
 
-[![Monocledhalfling's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Bacord)](https://wakatime.com/@jogilsang)
+[![Monocledhalfling's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Bacord)](https://wakatime.com/@Bacord)
 
 🛠️ Github Status
 <p align=left>
