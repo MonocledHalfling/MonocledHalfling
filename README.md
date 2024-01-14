@@ -8,7 +8,7 @@ I live in South Korea and programming is my hobby! <br> I use Python, Java, SQL,
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=MonocledHalfling)](https://solved.ac/MonocledHalfling)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=MonocledHalfling)](https://solved.ac/ypoiuyt3)
 
 <p align=left>
         ⏳ WakaTime
