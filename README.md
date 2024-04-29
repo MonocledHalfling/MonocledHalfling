@@ -1,4 +1,4 @@
-## Hey 👋, This is LEE SEOUNG MIN
+## Hey 👋, This is SEOUNG-MIN Lee
 <p align='left'>Hello, my name is seoung min Lee.
 I live in South Korea and programming is my hobby! <br> I use Python, Java, SQL, Lua, C# and more! <b> </p>
 <br>
