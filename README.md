@@ -11,7 +11,7 @@ I live in South Korea and programming is my hobby & major! <br> I use Python, Ja
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=MonocledHalfling)](https://solved.ac/ypoiuyt3)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ypoiuyt3)](https://solved.ac/ypoiuyt3)
 
 <p align=left>
         ⏳ WakaTime
