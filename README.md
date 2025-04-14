@@ -1,6 +1,6 @@
 ## Hey 👋, This is SEOUNG-MIN Lee
 <p align='left'>Hello, my name is seoung min Lee.
-I live in South Korea and programming is my hobby & major! <br> I use Python, Java, SQL, Lua, C# and more! <b> </p>
+I live in South Korea and programming is my hobby & major! <br> I use Python, Java, SQL, Lua, C#, C, C++ and more! <b> </p>
 <br>
         
 [![wakatime](https://wakatime.com/badge/user/91c4c2b6-8a7a-4971-8745-ad1b52a444ef.svg)](https://wakatime.com/@91c4c2b6-8a7a-4971-8745-ad1b52a444ef)
